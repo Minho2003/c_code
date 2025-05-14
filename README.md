@@ -1,2 +1,3 @@
-# c_code
-# c_code
+# ds=data_struct
+
+# my_baekjoon_code
